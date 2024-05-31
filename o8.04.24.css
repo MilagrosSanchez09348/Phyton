@@ -1,0 +1,27 @@
+element.style {
+    min-height: 90px;
+}
+.banner {
+    margin: 15px auto;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+#Outer {
+    text-align: center;
+}
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 100%;
+    font-size: 14px;
+    line-height: 20px;
+    -webkit-text-size-adjust: none;
+}
